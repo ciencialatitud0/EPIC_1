@@ -1,5 +1,8 @@
 # Programa
 
+# Actividades preliminares:
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Introduction
+
 # Día 1 (18 de octubre de 2021)
 
 ### Sesión 1: Introducción a GIT (9:00 - 10:00)
