@@ -25,3 +25,4 @@ https://www.facebook.com/asofis
 
 ## Como antesala al XVII ENCUENTRO DE FÍSICA:
 https://encuentrofisica.epn.edu.ec/index.php/es/
+Organizado por la Escuela Politécnica Nacional
