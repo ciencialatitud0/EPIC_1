@@ -54,14 +54,16 @@ Filter the data, make relevant plots and statistically analyze the results.
 
 # Day 4 (21//10/2021):
 
-## Session 6: Materials science:
-Explanation.<br />
-i) Mixed quantum/classical method: Trajectory surface hopping (TSH).<br />
-ii) Tully models and their link with some model systems nonadiabatic dynamics.<br />
-Computing Verlet velocity algorithm and surface hopping between two states.<br />
-Plotting time trace of position, velocity, relative energies, and population (between the ground state and first excited state).
+## Session 6: Materials science I:
+Introduction to Tight binding models in materials
 
-## Session 7: Astrophysics (session in English):
+## Session 7: Materials science II:
+Magnetism
+Electron microscopy on magnetic materials
+Magnetic simulations
+
+
+## Session 8: Astrophysics (session in English):
 Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI content).<br />
 Reading in fits data cubes (3D spectral line data - HI data of a galaxy)<br />
 Plotting slices of the 3D data cube and making moment maps<br />
@@ -71,3 +73,8 @@ Calculating some basic statistics for the spectra<br />
 Averaging the spectra for the galaxy<br />
 Calculating the HI mass of a galaxy<br />
 Fitting a Gaussian to spectra
+
+
+# Day 5 (21//10/2021)
+Student presentations
+Final project presentations
