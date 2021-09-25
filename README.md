@@ -11,7 +11,7 @@ Al final de este taller virtual l@s estudiantes podrán realizar análisis de da
 5 días que incluyen 1 sesión preparatoria y 10 sesiones a modo de tutoriales
 
 ## Programa:
-https://github.com/ciencialatitud0/EPIC_1/blob/main/Programme_es.md
+https://github.com/ciencialatitud0/EPIC_1/blob/main/Programa_es.md
 
 ## Inscripciones hasta el 30 de septiembre de 2021 en:
 https://indico.cern.ch/event/1044499/registrations/73514/
