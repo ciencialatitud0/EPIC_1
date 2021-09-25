@@ -93,5 +93,6 @@ Fitting a Gaussian to spectra
 
 # Day 5 (22/10/2021):
 ## 9:00 - 13:00
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Student_presentations<br />
 Student presentations<br />
 Final project presentations
