@@ -10,6 +10,9 @@ Al final de este taller virtual l@s estudiantes podrán realizar análisis de da
 ## Duración: 
 5 días que incluyen 1 sesión preparatoria y 10 sesiones a modo de tutoriales
 
+## Programa:
+https://github.com/ciencialatitud0/EPIC_1/blob/main/Programme_es.md
+
 ## Inscripciones hasta el 30 de septiembre de 2021 en:
 https://indico.cern.ch/event/1044499/registrations/73514/
 
@@ -32,7 +35,6 @@ Organizado por la Escuela Politécnica Nacional
 The first edition of EPIC will focus on introducing techniques for data analysis using python as the main tool.<br />
 At the end of this workshop, students will be able to perform basic data analysis of unprocessed raw data to extract important information about physical systems.
 
-
 ## Dates:
 18 - 22 October 2021
 
@@ -41,3 +43,6 @@ Online (Zoom)
 
 ## Duration:
 5 days including 1 preparatory session, and 10 tutorial sessions
+
+## Programme:
+https://github.com/ciencialatitud0/EPIC_1/blob/main/Programme_en.md
