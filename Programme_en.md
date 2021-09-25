@@ -59,10 +59,9 @@ Filter the data, make relevant plots and statistically analyze the results.
 Introduction to Tight binding models in materials
 
 ## Session 7: Materials science II (11:00 - 13:00)
-Magnetism
-Electron microscopy on magnetic materials
+Magnetism<br />
+Electron microscopy on magnetic materials<br />
 Magnetic simulations
-
 
 ## Session 8: Astrophysics (session in English, 9:00 - 13:00):
 Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI content).<br />
