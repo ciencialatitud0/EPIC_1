@@ -71,3 +71,4 @@ Ajuste Gaussiano a los espectros
 ### (9:00 - 13:00)<br />
 Presentaciones de estudiantes<br />
 Presentaciones de proyectos del curso
+Clausura del evento
