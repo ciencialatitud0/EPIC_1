@@ -8,6 +8,7 @@ Preparatory session with a tutor (optional attendance).
 # Day 1 (18/10/2021)
 
 ## Session 1: Introduction to GIT (9:00 - 10:00)<br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_1
 Welcome<br />
 What is GIT?<br />
 How to use?<br />
