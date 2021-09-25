@@ -1,9 +1,9 @@
 # School programme
 
-## Preliminary activities
-
+# Preliminary activities
 Initial activities done by the students (instructions in the link below).<br />
-Preparatory session with a tutor (optional attendance).
+Preparatory session with a tutor (optional attendance).<br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Introduction
 
 # Day 1 (18/10/2021)
 
