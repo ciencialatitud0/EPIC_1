@@ -33,7 +33,7 @@ Computation of integrated quantities<br />
 Clump finding techniques<br />
 Visualisation and interpretation of the results
 
-# Day 3 (20//10/2021):
+# Day 3 (20/10/2021):
 Parallel sessions on advanced topics.
 
 ## Session 4: Image processing (9:00 - 13:00)
@@ -53,7 +53,7 @@ How to handle it, how to process it and what to look up to.<br />
 This exercise uses real data from one of the LHC experiments.<br />
 Filter the data, make relevant plots and statistically analyze the results.
 
-# Day 4 (21//10/2021):
+# Day 4 (21/10/2021):
 
 ## Session 6: Materials science I (9:00 - 11:00)
 Introduction to Tight binding models in materials
@@ -76,7 +76,7 @@ Calculating the HI mass of a galaxy<br />
 Fitting a Gaussian to spectra
 
 
-# Day 5 (21//10/2021):
+# Day 5 (22/10/2021):
 ## 9:00 - 13:00
 Student presentations<br />
 Final project presentations
