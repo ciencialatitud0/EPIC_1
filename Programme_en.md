@@ -76,7 +76,7 @@ Calculating the HI mass of a galaxy<br />
 Fitting a Gaussian to spectra
 
 
-# Day 5(21//10/2021):
+# Day 5 (21//10/2021):
 ## 9:00 - 13:00
 Student presentations<br />
 Final project presentations
