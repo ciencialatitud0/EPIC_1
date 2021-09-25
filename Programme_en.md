@@ -2,7 +2,7 @@
 
 ## Preliminary activities
 
-Initial activities done by the students (instructions under construction).
+Initial activities done by the students (instructions in the link below).<br />
 Preparatory session with a tutor (optional attendance).
 
 # Day 1 (18/10/2021)
@@ -49,16 +49,16 @@ Extracting data from segmented images (e.g. cell area, elongation)
 Brief intro to data analysis for high energy physics<br />
 The exercise requires basic knowledge of LHC physics data.<br />
 How to handle it, how to process it and what to look up to.<br />
-This exercise uses real data from one of the LHC experiments.<br /><br />
+This exercise uses real data from one of the LHC experiments.<br />
 Filter the data, make relevant plots and statistically analyze the results.
 
 # Day 4 (21//10/2021):
 
 ## Session 6: Materials science:
-Explanation.
-i) Mixed quantum/classical method: Trajectory surface hopping (TSH).
-ii) Tully models and their link with some model systems nonadiabatic dynamics.
-Computing Verlet velocity algorithm and surface hopping between two states.
+Explanation.<br />
+i) Mixed quantum/classical method: Trajectory surface hopping (TSH).<br />
+ii) Tully models and their link with some model systems nonadiabatic dynamics.<br />
+Computing Verlet velocity algorithm and surface hopping between two states.<br />
 Plotting time trace of position, velocity, relative energies, and population (between the ground state and first excited state).
 
 ## Session 7: Astrophysics (session in English):
