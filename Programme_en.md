@@ -18,6 +18,7 @@ Usage examples<br />
 
 ## Session 2: Data Analysis with python I (10:00 - 13:00)
 ### Tutora: Lupe Villegas López, Instituto de Óptica IO_CSIC, España <br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_2 <br />
 Read and write data tables<br />
 Work with data tables<br />
 Basic statistics<br />
@@ -29,6 +30,7 @@ Examples
 
 ## Session 3: Data Analysis with python II (9:00 - 13:00)
 ### Tutor: Wladimir Banda-Barragán, Hamburg University, Germany <br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_3 <br />
 Introduction to HDF5, VTK, and Binary Data Formats<br />
 Reading and handling data from numerical simulations<br />
 Array manipulation, and use of conditionals and loops<br />
@@ -42,6 +44,7 @@ Parallel sessions on advanced topics.
 
 ## Session 4: Image processing (9:00 - 13:00)
 ### Tutor: Andrés Morales Navarrete, Friedrich Miescher Laboratory of the Max Planck Society, Germany <br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_4 <br />
 Explanation about bioimages (i.e. fluorescence microscopy)<br />
 Bioimage analysis example: quantifying cell morphology from 2D fluorescence micrographs<br />
 Importing images and plotting images<br />
@@ -53,6 +56,7 @@ Extracting data from segmented images (e.g. cell area, elongation)
 
 ## Session 5: Particle physics (9:00 - 13:00)
 ### Tutor: Alejandro Gómez Espinosa, ETH Zurich, Switzerland  <br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_5 <br />
 Brief intro to data analysis for high energy physics<br />
 The exercise requires basic knowledge of LHC physics data.<br />
 How to handle it, how to process it and what to look up to.<br />
@@ -63,16 +67,19 @@ Filter the data, make relevant plots and statistically analyze the results.
 
 ## Session 6: Materials science I (9:00 - 11:00)
 ### Tutor: Leonardo Basile, Escuela Politécnica Nacional, Ecuador
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_6 <br />
 Introduction to Tight binding models in materials
 
 ## Session 7: Materials science II (11:00 - 13:00)
 ### Tutora: María José Benítez, Escuela Politécnica Nacional, Ecuador
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_7 <br />
 Magnetism<br />
 Electron microscopy on magnetic materials<br />
 Magnetic simulations
 
 ## Session 8: Astrophysics (session in English, 9:00 - 13:00):
 ### Tutora: Helga Dénes, Astron, The Netherlands
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_8 <br />
 Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI content).<br />
 Reading in fits data cubes (3D spectral line data - HI data of a galaxy)<br />
 Plotting slices of the 3D data cube and making moment maps<br />
