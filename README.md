@@ -26,3 +26,18 @@ https://www.facebook.com/asofis
 ## Como antesala al XVII ENCUENTRO DE FÍSICA:
 https://encuentrofisica.epn.edu.ec/index.php/es/<br />
 Organizado por la Escuela Politécnica Nacional
+
+
+# General Information in English:
+The first edition of EPIC will focus on introducing techniques for data analysis using python as the main tool.<br />
+At the end of this workshop, students will be able to perform basic data analysis of unprocessed raw data to extract important information about physical systems.
+
+
+## Dates:
+18 - 22 October 2021
+
+## Format:
+Online (Zoom)
+
+## Duration:
+5 days including 1 preparatory session, and 10 tutorial sessions
