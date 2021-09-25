@@ -1,11 +1,11 @@
-Bienvenidos a la primera edición de la Escuela de Programación para Investigación Científica - EPIC.
+# Bienvenidos a la primera edición de la Escuela de Programación para Investigación Científica - EPIC.
 
 EPIC 1 se enfoca en introducir técnicas para el \análisis de datos utilizando python como herramienta principal.
 
 Al final de este taller virtual l@s estudiantes podrán realizar análisis de datos primarios (i.e. no procesados) para extraer información importante sobre el comportamiento de sistemas físicos.
 
-Fechas del evento:
-18 - 22 de octubre de 2021
+# Fechas del evento:
+# 18 - 22 de octubre de 2021
 
 Duración: 
 5 días que incluyen 1 sesión preparatoria y 10 sesiones a modo de tutoriales
@@ -23,5 +23,5 @@ https://fisica.epn.edu.ec/
 3. Asociación de Estudiantes de Física - ASOFIS
 https://www.facebook.com/asofis
 
-Como antesala al XVII ENCUENTRO DE FÍSICA:
-https://encuentrofisica.epn.edu.ec/index.php/es/
+# Como antesala al XVII ENCUENTRO DE FÍSICA:
+# https://encuentrofisica.epn.edu.ec/index.php/es/
