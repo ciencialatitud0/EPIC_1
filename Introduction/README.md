@@ -30,4 +30,7 @@ For testing and customising your installation in Linux/MaxOSX laptops/PCs, follo
 3. conda install jupyter
 4. conda install numpy cython mpi4py git
 5. jupyter notebook
-6. Then, follow this: 
+6. Then, follow this:
+
+https://github.com/wbandabarragan/EPIC_1/blob/main/Introduction/My_first_notebook.ipynb
+ 
