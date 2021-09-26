@@ -23,4 +23,11 @@ Another option is to have python (and all the libraries you need to analyse your
 Download Anaconda from this website: https://www.anaconda.com/products/individual, choose the package version that best suits the OS of your laptop.
 
 ### How do I test and use Anaconda?
-For testing your installation in Linux/MaxOSX laptops/PCs, follow these instructions:
+For testing and customising your installation in Linux/MaxOSX laptops/PCs, follow these instructions:
+
+1. conda create -n py37 python=3.7
+2. conda activate py37
+3. conda install jupyter
+4. conda install numpy cython mpi4py git
+5. jupyter notebook
+6. Then, follow this: 
