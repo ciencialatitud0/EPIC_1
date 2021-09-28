@@ -5,3 +5,7 @@ This folder contains the jupyter notebooks for the __Dimuon spectra at the LHC__
   * [ParticlePhysicsExercise_DimuonatCMS_workingNotebook.ipynb](ParticlePhysicsExercise_DimuonatCMS_workingNotebook.ipynb) is the workbook, the code to execute the exercise is here
   * [HEX_env.yml](HEX_env.yml) is the `yml` file in case you need to create a new conda environment for this exercise.
 
+
+In case you want to open the notebooks in google colab:
+  * [![Open In Colab: Description](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_5/ParticlePhysicsExercise_DimuonatCMS.ipynb)
+  * [![Open In Colab: Working notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_5/ParticlePhysicsExercise_DimuonatCMS_workingNotebook.ipynb)
