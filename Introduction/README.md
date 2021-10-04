@@ -27,52 +27,51 @@ Download Anaconda from this website: https://www.anaconda.com/products/individua
 #### On Linux and MacOSX:
 For testing and customising your installation on Linux/MaxOSX laptops/PCs, follow these instructions:
 
-##### Intstallation from a terminal (recommended):
+##### Option A: Intstallation from a terminal (recommended)
 
 1. Open a terminal window.
 
 2. Type the command below:
-$ conda --version
-conda 4.10.3
+  $ conda --version
+  conda 4.10.3
 
 3. That means you have Anaconda 4.10.3 installed.
 
 4. Now, let us check which environment you have:
-$ conda env list
-conda environments:
-base                  *  /Users/webb/opt/anaconda3
+  $ conda env list
+  conda environments:
+  base                  *  /Users/webb/opt/anaconda3
 
 5. Let us know create a new environment with:
-conda create -n py37 python=3.7
+  $conda create -n py37 python=3.7
 
-C conda env list
-conda environments:
-base                  *  /Users/webb/opt/anaconda3
-py37                     /Users/webb/opt/anaconda3/envs/py37
+  $ conda env list
+  conda environments:
+  base                  *  /Users/webb/opt/anaconda3
+  py37                     /Users/webb/opt/anaconda3/envs/py37
 
 6. Now, we activate the environment:
-$ conda activate py37
+  $ conda activate py37
 
-$ conda env list
-conda environments:
-base                     /Users/webb/opt/anaconda3
-py37                  *  /Users/webb/opt/anaconda3/envs/py37
+  $ conda env list
+  conda environments:
+  base                     /Users/webb/opt/anaconda3
+  py37                  *  /Users/webb/opt/anaconda3/envs/py37
 
 7. Let us check with libraries are installed by default:
-$ conda list
+  $ conda list
 
 8. Let's install a few extra libraries:
-$ conda install jupyter numpy cython mpi4py git
+  $ conda install jupyter numpy cython mpi4py git
 
 Type 'yes' to accept changes.
 
 9. Let's now open a jupyter notebook:
-$ jupyter notebook
+  $ jupyter notebook
 
 10. Then, follow this:
 
 
-##### From within jupyter (if it was installed by default):
+##### Option B: From within jupyter (if it was installed by default):
 
 https://github.com/wbandabarragan/EPIC_1/blob/main/Introduction/My_first_notebook.ipynb
- 
