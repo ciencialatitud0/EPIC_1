@@ -19,6 +19,8 @@ One option is to use Google Colab, for which you would need a Gmail account. The
 ## Anaconda/Miniconda (see https://anaconda.org/):
 Another option is to have python (and all the libraries you need to analyse your dataset) installed in your laptop. This can also be done in many ways, but anaconda is now very popular because it provides good portability and an interface that allows the user to include extra kernels for other programming languages. Anaconda has the advantage that you have all the code you need locally in your laptop.
 
+# Installation instructions
+
 ### How to install Anaconda?
 Download Anaconda from this website: https://www.anaconda.com/products/individual, choose the package version that best suits the operating system (OS) of your laptop.
 
@@ -29,49 +31,49 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 ##### Option A: Intstallation from a terminal (recommended)
 
-1. Open a terminal window.
+1. Open a terminal window.<br>
 
-2. Type the command below:
-  $ conda --version
-  conda 4.10.3
+2. Type the command below:<br>
+  $ conda --version<br>
+  conda 4.10.3<br>
 
-3. That means you have Anaconda 4.10.3 installed.
+3. That means you have Anaconda 4.10.3 installed.<br>
 
-4. Now, let us check which environment you have:
-  $ conda env list
-  conda environments:
-  base                  *  /Users/webb/opt/anaconda3
+4. Now, let us check which environment you have:<br>
+  $ conda env list<br>
+  conda environments:<br>
+  base                  *  /Users/webb/opt/anaconda3<br>
 
-5. Let us know create a new environment with:
-  $conda create -n py37 python=3.7
+5. Let us know create a new environment with:<br>
+  $conda create -n py37 python=3.7<br>
+  $ conda env list<br>
+  conda environments:<br>
+  base                  *  /Users/webb/opt/anaconda3<br>
+  py37                     /Users/webb/opt/anaconda3/envs/py37<br>
 
-  $ conda env list
-  conda environments:
-  base                  *  /Users/webb/opt/anaconda3
-  py37                     /Users/webb/opt/anaconda3/envs/py37
+6. Now, we activate the environment:<br>
+  $ conda activate py37<br>
+  $ conda env list<br>
+  conda environments:<br>
+  base                     /Users/webb/opt/anaconda3<br>
+  py37                  *  /Users/webb/opt/anaconda3/envs/py37<br>
 
-6. Now, we activate the environment:
-  $ conda activate py37
+7. Let us check with libraries are installed by default:<br>
+  $ conda list<br>
 
-  $ conda env list
-  conda environments:
-  base                     /Users/webb/opt/anaconda3
-  py37                  *  /Users/webb/opt/anaconda3/envs/py37
+8. Let's install a few extra libraries:<br>
+  $ conda install jupyter numpy cython mpi4py git<br>
 
-7. Let us check with libraries are installed by default:
-  $ conda list
+9. Type 'yes' to accept changes, and check that the new libraries are present.<br>
+   $ conda list<br>
 
-8. Let's install a few extra libraries:
-  $ conda install jupyter numpy cython mpi4py git
+10. Let's now open a jupyter notebook, and we are ready to work.<br>
+  $ jupyter notebook<br>
 
-Type 'yes' to accept changes.
-
-9. Let's now open a jupyter notebook:
-  $ jupyter notebook
-
-10. Then, follow this:
+10. Then, follow this:<br>
 
 
-##### Option B: From within jupyter (if it was installed by default):
+##### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
 
 https://github.com/wbandabarragan/EPIC_1/blob/main/Introduction/My_first_notebook.ipynb
+
