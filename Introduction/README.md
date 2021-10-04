@@ -21,59 +21,59 @@ Another option is to have python (and all the libraries you need to analyse your
 
 # Installation instructions
 
-### How to install Anaconda?
+## How to install Anaconda?
 Download Anaconda from this website: https://www.anaconda.com/products/individual, choose the package version that best suits the operating system (OS) of your laptop.
 
-### How do I test and use Anaconda?
+## How do I test and use Anaconda?
 
-#### On Linux and MacOSX:
+### On Linux and MacOSX:
 For testing and customising your installation on Linux/MaxOSX laptops/PCs, follow these instructions:
 
-##### Option A: Intstallation from a terminal (recommended)
+#### Option A: Intstallation from a terminal (recommended)
 
 1. Open a terminal window.<br>
 
 2. Type the command below:<br>
-  $ conda --version<br>
-  conda 4.10.3<br>
+  **$ conda --version<br>
+  conda 4.10.3<br>**
 
 3. That means you have Anaconda 4.10.3 installed.<br>
 
 4. Now, let us check which environment you have:<br>
-  $ conda env list<br>
+  **$ conda env list<br>
   conda environments:<br>
-  base                  *  /Users/webb/opt/anaconda3<br>
+  base                  *  /Users/webb/opt/anaconda3<br>**
 
 5. Let us know create a new environment with:<br>
-  $conda create -n py37 python=3.7<br>
+  **$conda create -n py37 python=3.7<br>
   $ conda env list<br>
   conda environments:<br>
   base                  *  /Users/webb/opt/anaconda3<br>
-  py37                     /Users/webb/opt/anaconda3/envs/py37<br>
+  py37                     /Users/webb/opt/anaconda3/envs/py37<br>**
 
 6. Now, we activate the environment:<br>
-  $ conda activate py37<br>
+  **$ conda activate py37<br>
   $ conda env list<br>
   conda environments:<br>
   base                     /Users/webb/opt/anaconda3<br>
-  py37                  *  /Users/webb/opt/anaconda3/envs/py37<br>
+  py37                  *  /Users/webb/opt/anaconda3/envs/py37<br>**
 
 7. Let us check with libraries are installed by default:<br>
-  $ conda list<br>
+  **$ conda list<br>**
 
 8. Let's install a few extra libraries:<br>
-  $ conda install jupyter numpy cython mpi4py git<br>
+  **$ conda install jupyter numpy cython mpi4py git<br>**
 
 9. Type 'yes' to accept changes, and check that the new libraries are present.<br>
-   $ conda list<br>
+  **$ conda list<br>**
 
 10. Let's now open a jupyter notebook, and we are ready to work.<br>
-  $ jupyter notebook<br>
+  **$ jupyter notebook<br>**
 
 10. Then, follow this:<br>
 
 
-##### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
+#### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
 
 https://github.com/wbandabarragan/EPIC_1/blob/main/Introduction/My_first_notebook.ipynb
 
