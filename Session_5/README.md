@@ -1,2 +1,2 @@
-# Session 8: Astrophysics
+# Session 5: Astrophysics
 Helga Dénes
