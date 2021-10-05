@@ -1,4 +1,4 @@
-# Session 5: Particle physics
+# Session 8: Particle physics
 
 This folder contains the jupyter notebooks for the __Dimuon spectra at the LHC__ exercise. 
   * [ParticlePhysicsExercise_DimuonatCMS.ipynb](ParticlePhysicsExercise_DimuonatCMS.ipynb)  Contains the physical description of the exercise.
