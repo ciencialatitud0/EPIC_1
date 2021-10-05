@@ -1,2 +1,2 @@
 # Session 5: Astrophysics
-Helga Dénes
+Helga Dénes, Astron
