@@ -24,8 +24,6 @@ Another option is to have python (and all the libraries you need to analyse your
 ## How to install Anaconda?
 Download Anaconda from this website: https://www.anaconda.com/products/individual. Choose the package version that best suits the operating system (OS) of your laptop.
 
-## How do I test and use Anaconda?
-
 ### On Linux and MacOSX:
 For testing and customising your installation on Linux/MaxOSX laptops/PCs, follow these instructions:
 
@@ -86,10 +84,31 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
   $ jupyter notebook
 ~~~~
 
-10. Then, follow this:<br>
+10. Once the notebook is open, you can start coding your first notebook:<br>
 
 https://github.com/ciencialatitud0/EPIC_1/blob/main/Introduction/My_first_notebook.ipynb
 
 #### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
 
 https://github.com/ciencialatitud0/EPIC_1/blob/main/Introduction/Installation_from_notebook.ipynb
+
+
+### On Windows:
+If you are using Windows, we highligh recommend setting up a Virtual Machine (VM) with a linux distribution first:
+
+- Download VirtualBox from: https://www.virtualbox.org/
+- Follow the instructions here: https://itsfoss.com/install-linux-in-virtualbox/
+
+After the installation of the VM is successful, follow the instructions provided above for Linux/MacOSX systems to set up your Anaconda installation.
+
+In the long term, you may want to fully switch to Unix-based operating systems. Ubuntu is a popular and user-friendly option.
+
+
+## How do I test and use Anaconda?
+Assumming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on basic python:
+
+- https://swcarpentry.github.io/python-novice-gapminder/
+- https://swcarpentry.github.io/python-novice-inflammation/ 
+
+Please note that we will **NOT** have time to cover the basics in EPIC 1, so make sure you are familiar with the material above.
+
