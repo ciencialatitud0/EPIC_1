@@ -29,7 +29,7 @@ Download Anaconda from this website: https://www.anaconda.com/products/individua
 ### On Linux and MacOSX:
 For testing and customising your installation on Linux/MaxOSX laptops/PCs, follow these instructions:
 
-#### Option A: Intstallation from a terminal (recommended)
+#### Option A: Installation from a terminal (recommended)
 
 1. Open a terminal window.<br>
 
