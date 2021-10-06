@@ -87,6 +87,7 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 ~~~~
 
 10. Then, follow this:<br>
+
 https://github.com/ciencialatitud0/EPIC_1/blob/main/Introduction/My_first_notebook.ipynb
 
 #### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
