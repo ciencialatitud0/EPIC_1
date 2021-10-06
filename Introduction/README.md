@@ -43,16 +43,16 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 4. Now, let us check which environment you have:<br>
 ~~~~html
-  $ conda env list<br>
-  conda environments:<br>
+  $ conda env list
+  conda environments:
   base                  *  /Users/webb/opt/anaconda3
 ~~~~
 
 5. Let us know create a new environment with:<br>
 ~~~~html
-  $ conda create -n py37 python=3.7<br>
-  $ conda env list<br>
-  conda environments:<br>
+  $ conda create -n py37 python=3.7
+  $ conda env list
+  conda environments:
   base                  *  /Users/webb/opt/anaconda3
   py37                     /Users/webb/opt/anaconda3/envs/py37
 ~~~~
