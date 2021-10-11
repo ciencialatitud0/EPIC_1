@@ -94,7 +94,7 @@ https://github.com/ciencialatitud0/EPIC_1/blob/main/Introduction/Installation_fr
 
 
 ### On Windows:
-If you are using Windows, we highligh recommend setting up a Virtual Machine (VM) with a linux distribution first:
+If you are using Windows, we highly recommend setting up a Virtual Machine (VM) with a linux distribution first:
 
 - Download VirtualBox from: https://www.virtualbox.org/
 - Follow the instructions here: https://itsfoss.com/install-linux-in-virtualbox/
