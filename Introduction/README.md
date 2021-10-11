@@ -105,10 +105,10 @@ In the long term, you may want to fully switch to Unix-based operating systems. 
 
 
 ## How do I test and use Anaconda?
-Assumming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on basic python:
+Assumming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on jupyter notebooks and basic python:
 
+- https://datacarpentry.org/python-ecology-lesson/jupyter_notebooks/
 - https://swcarpentry.github.io/python-novice-gapminder/
-- https://swcarpentry.github.io/python-novice-inflammation/ 
 
 Please note that we will **NOT** have time to cover the basics in EPIC 1, so make sure you are familiar with the material above.
 
