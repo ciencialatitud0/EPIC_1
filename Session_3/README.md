@@ -16,3 +16,21 @@ https://github.com/wbandabarragan/EPIC_1/blob/main/Session_3/3c_python_II_tutori
 
 ### D. After we finish the class, you will work on some exercises based on the items above.
 https://github.com/wbandabarragan/EPIC_1/blob/main/Session_3/exercises.ipynb
+
+## Extra reading material:
+### A. On gas dynamics:
+https://en.wikipedia.org/wiki/Ideal_gas
+https://en.wikipedia.org/wiki/Compressible_flow
+
+### B. On data formats:
+HDF5: https://en.wikipedia.org/wiki/Hierarchical_Data_Format
+VTK: https://en.wikipedia.org/wiki/VTK
+FITS: https://en.wikipedia.org/wiki/FITS
+NETCDF: https://en.wikipedia.org/wiki/NetCDF
+
+### C. On turbulence:
+https://en.wikipedia.org/wiki/Turbulence
+https://arxiv.org/abs/0808.0605
+
+## Extra software:
+- Please download and install VisIt: https://visit-dav.github.io/visit-website/
