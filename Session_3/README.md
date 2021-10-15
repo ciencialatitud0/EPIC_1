@@ -15,7 +15,7 @@ https://github.com/wbandabarragan/EPIC_1/blob/main/Session_3/3b_python_II_CFDdat
 https://github.com/wbandabarragan/EPIC_1/blob/main/Session_3/3c_python_II_tutorial.ipynb
 
 ### D. After we finish the class, you will work on some exercises based on the items above.
-https://github.com/wbandabarragan/EPIC_1/blob/main/Session_3/exercises.ipynb
+https://github.com/wbandabarragan/EPIC_1/blob/main/Session_3/3d_python_II_exercises.ipynb
 
 ## Extra reading material:
 ### A. On gas dynamics:
