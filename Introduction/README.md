@@ -1,8 +1,8 @@
 # Introduction and preliminary activities
 
-Please read carefully all the information below and follow all the instructions BEFORE the start of the School.
+Please read carefully all the information below and follow all the instructions **BEFORE** the start of the School.
 
-These instructions are very important as you should have all the preliminary tests done in your laptop BEFORE we start the School. Since time is short, during the School we will NOT be able to help with installation or laptop performance problems. All need to be well tested beforehand, so we can focus on coding and science.
+These instructions are very important as you should have all the preliminary tests done in your laptop BEFORE we start the School. Since time is short, during the School we will **NOT** be able to help with installation or laptop performance problems. All need to be well tested beforehand, so we can focus on coding and science.
 
 This School focuses on python, we will use python3 as python2 is not supported anymore.
 
@@ -16,7 +16,12 @@ To be able to use python and jupyter notebooks in your laptop, there are several
 ## Google Colab (see https://colab.research.google.com/):
 One option is to use Google Colab, for which you would need a Gmail account. The advantage of using Google Colab is that all libraries are installed in a linux server remotely, so we don't need to worry about compatibility issues, different operating systems, etc. The disadvantage is that Colab provides limited memory resources and very limited disc space since everything is stored in a cloud, so you can only use it to process small datasets.
 
-## Anaconda/Miniconda (see https://anaconda.org/):
+## How do I test Google Colab?
+1. Download this notebook: https://github.com/ciencialatitud0/EPIC_1/blob/main/Introduction/My_first_notebook.ipynb
+2. Open Goole Colab
+3. Upload the notebook, and run it. If you see a plot of sin(x) vs. x, your local Google Colab works.
+
+## Anaconda/Miniconda (Recommended, see https://anaconda.org/):
 Another option is to have python (and all the libraries you need to analyse your datasets) installed in your laptop. This can also be done in many ways, but anaconda is now very popular because it provides good portability and an interface that allows the user to include extra kernels for other programming languages. Anaconda has the advantage that you have all the code you need locally in your laptop. In the long term, using Anaconda will be much more advantageous.
 
 # Installation instructions
@@ -94,7 +99,10 @@ https://github.com/ciencialatitud0/EPIC_1/blob/main/Introduction/Installation_fr
 
 
 ### On Windows:
-If you are using Windows, we highligh recommend setting up a Virtual Machine (VM) with a linux distribution first:
+If you are using Windows, we highly recommend either:
+
+1. setting up a dual partition in your hard drive with both Windows and Linux, or
+2. setting up a Virtual Machine (VM) with a linux distribution. For this:
 
 - Download VirtualBox from: https://www.virtualbox.org/
 - Follow the instructions here: https://itsfoss.com/install-linux-in-virtualbox/
@@ -105,10 +113,10 @@ In the long term, you may want to fully switch to Unix-based operating systems. 
 
 
 ## How do I test and use Anaconda?
-Assumming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on basic python:
+Assumming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on jupyter notebooks and basic python:
 
+- https://datacarpentry.org/python-ecology-lesson/jupyter_notebooks/
 - https://swcarpentry.github.io/python-novice-gapminder/
-- https://swcarpentry.github.io/python-novice-inflammation/ 
 
 Please note that we will **NOT** have time to cover the basics in EPIC 1, so make sure you are familiar with the material above.
 
