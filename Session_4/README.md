@@ -20,3 +20,15 @@ $ git clone https://github.com/ciencialatitud0/EPIC_1.git
  	$ conda install scipy scikit-image tifffile
  	- Open a jupyter notebook
  	$ jupyter notebook
+
+### 1. Introduction to Digital Images
+- Brief intro to digital images
+
+### 2. BioImage Analysis with Python
+
+- It is a step by step pipeline for segmenting cells in 2D fluorescence microscopy images (with labeled membranes)
+
+## Disclaimer
+- These materials have been adapted from the original versions: 
+    - "Python BioImage Analysis Tutorial:" https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
+    - "Python Workshop - Image Processing" : https://github.com/karinsasaki/python-workshop-image-processing
