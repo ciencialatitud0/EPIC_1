@@ -1,8 +1,5 @@
 # Session 4: Image processing with Python
 
-# Tutor: Hernan Andres Morales-Navarrete
-email: hernan.morales-navarrete@uni-konstanz.de
-
 This class is an introduction to image analysis of biological images (i.e. microscopy images).
 Basic knowledge in Python and Jupyter is required.
 
