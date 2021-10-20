@@ -56,7 +56,7 @@ https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_4 <br />
 
 ## Session 5: Astrophysics (session in English, 9:00 - 13:00):
 ### Tutora: Helga Dénes, Astron - the Netherlands Institute for Radio Astronomy, The Netherlands
-https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_8 <br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_5 <br />
 - Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI content).<br />
 - Reading in fits data cubes (3D spectral line data - HI data of a galaxy)<br />
 - Plotting slices of the 3D data cube and making moment maps<br />
@@ -83,7 +83,7 @@ https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_7 <br />
 
 ## Session 8: Particle physics (9:00 - 13:00)
 ### Tutor: Alejandro Gómez Espinosa, ETH Zurich, Switzerland  <br />
-https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_5 <br />
+https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_8 <br />
 - Brief intro to data analysis for high energy physics<br />
 - The exercise requires basic knowledge of LHC physics data.<br />
 - How to handle it, how to process it and what to look up to.<br />
