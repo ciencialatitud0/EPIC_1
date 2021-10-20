@@ -52,14 +52,17 @@ Filtros y transformaciones de Fourier<br />
 Segmentación<br />
 Extracción de datos de imágenes segmentadas (por ejemplo, área de celda, alargamiento)
 
-### Sesión 5: Física de partículas (9:00 - 13:00)
-### Tutor: Alejandro Gómez Espinosa, ETH Zurich, Switzerland  <br />
+### Sesión 5: Astrofísica (en inglés) (9:00 - 13:00)
+### Tutora: Helga Dénes, Astron, The Netherlands
 https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_5 <br />
-Introducción a análisis de datos para física de altas energías<br />
-El ejercicio requiere conocimiento básico de datos del LHC<br />
-Cómo manejar datos, cómo procesarlos y qué buscar<br />
-El ejercicio usa datos reales de uno de los experimentos del LHC<br />
-Incluye filtrar datos, realizar gráficas y analizar resultados
+Explicación inicial sobre la astrofísica detrás de las galaxias y su hidrógeno neutro (contenido de HI).<br />
+Lectura de cubos de datos FITS (datos de línea espectral 3D de HI de una galaxia)<br />
+Gráficas de porciones del cubo de datos 3D y mapas de momentos<br />
+Descargar imágenes astronómicas de una base de datos (para la misma galaxia que los datos HI)<br />
+Superposición de los datos HI en una imagen óptica<br />
+Cálculo de algunas estadísticas básicas para los espectros<br />
+Promedio de los espectros de la galaxia y cálculo de la masa de HI de una galaxia<br />
+Ajuste Gaussiano a los espectros
 
 # Día 4 (21 de octubre de 2021)
 
@@ -75,17 +78,14 @@ Magnetismo<br />
 Microscopía de electrones in materiales magnéticos<br />
 Simulaciones magnéticas
 
-### Sesión 8: Astrofísica (en inglés) (9:00 - 13:00)
-### Tutora: Helga Dénes, Astron, The Netherlands
+### Sesión 8: Física de partículas (9:00 - 13:00)
+### Tutor: Alejandro Gómez Espinosa, ETH Zurich, Switzerland  <br />
 https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_8 <br />
-Explicación inicial sobre la astrofísica detrás de las galaxias y su hidrógeno neutro (contenido de HI).<br />
-Lectura de cubos de datos FITS (datos de línea espectral 3D de HI de una galaxia)<br />
-Gráficas de porciones del cubo de datos 3D y mapas de momentos<br />
-Descargar imágenes astronómicas de una base de datos (para la misma galaxia que los datos HI)<br />
-Superposición de los datos HI en una imagen óptica<br />
-Cálculo de algunas estadísticas básicas para los espectros<br />
-Promedio de los espectros de la galaxia y cálculo de la masa de HI de una galaxia<br />
-Ajuste Gaussiano a los espectros
+Introducción a análisis de datos para física de altas energías<br />
+El ejercicio requiere conocimiento básico de datos del LHC<br />
+Cómo manejar datos, cómo procesarlos y qué buscar<br />
+El ejercicio usa datos reales de uno de los experimentos del LHC<br />
+Incluye filtrar datos, realizar gráficas y analizar resultados
 
 
 # Día 5 (22 de octubre de 2021) 
