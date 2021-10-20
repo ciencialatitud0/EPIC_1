@@ -25,6 +25,9 @@ $ git clone https://github.com/ciencialatitud0/EPIC_1.git
 
 - It is a step by step pipeline for segmenting cells in 2D fluorescence microscopy images (with labeled membranes)
 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ciencialatitud0/EPIC_1/blob/main/Session_4//Intro_DigitalImages.ipynb)
+
+
 ## Disclaimer
 - These materials have been adapted from the original versions: 
     - "Python BioImage Analysis Tutorial:" https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
