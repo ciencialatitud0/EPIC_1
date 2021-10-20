@@ -78,7 +78,7 @@ Magnetismo<br />
 Microscopía de electrones in materiales magnéticos<br />
 Simulaciones magnéticas
 
-### Sesión 5: Física de partículas (9:00 - 13:00)
+### Sesión 8: Física de partículas (9:00 - 13:00)
 ### Tutor: Alejandro Gómez Espinosa, ETH Zurich, Switzerland  <br />
 https://github.com/ciencialatitud0/EPIC_1/tree/main/Session_8 <br />
 Introducción a análisis de datos para física de altas energías<br />
