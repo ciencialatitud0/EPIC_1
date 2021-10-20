@@ -21,14 +21,15 @@ $ git clone https://github.com/ciencialatitud0/EPIC_1.git
 ### 1. Introduction to Digital Images
 - Brief intro to digital images
 
-	-GoogleColab:
+	* [Intro_DigitalImages.ipynb](Intro_DigitalImages.ipynb)
+	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_4/Intro_DigitalImages.ipynb)
  
  
 ### 2. BioImage Analysis with Python
 
 - It is a step by step pipeline for segmenting cells in 2D fluorescence microscopy images (with labeled membranes)
-
+	* [Image_analysis_tutorial.ipynb](Image_analysis_tutorial.ipynb)
 	-GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_4/Image_analysis_tutorial.ipynb)
 
