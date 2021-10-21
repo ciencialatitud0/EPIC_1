@@ -1,0 +1,4 @@
+jupyter==1.0.0
+matplotlib
+numpy==1.18.5
+pythtb
