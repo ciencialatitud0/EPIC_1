@@ -7,5 +7,5 @@ This folder contains the jupyter notebooks for the __Dimuon spectra at the LHC__
 
 
 In case you want to open the notebooks in google colab:
-  * Description notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_5/ParticlePhysicsExercise_DimuonatCMS.ipynb)
-  * Working notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_5/ParticlePhysicsExercise_DimuonatCMS_workingNotebook.ipynb)
+  * Description notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_8/ParticlePhysicsExercise_DimuonatCMS.ipynb)
+  * Working notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_1/blob/main/Session_8/ParticlePhysicsExercise_DimuonatCMS_workingNotebook.ipynb)
