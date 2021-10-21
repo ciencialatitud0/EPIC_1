@@ -1,0 +1,96 @@
+# MIF 2.1
+# Description: Cobalt stripe
+set pi [expr 4*atan(1.0)]
+set mu0 [expr 4*$pi*1e-7]
+
+
+# structure: Cobalt stripe
+
+
+Specify Oxs_BoxAtlas:a1 {
+  xrange {0 1000e-9}
+  yrange {0 100e-9}
+  zrange {0 5e-9}
+  name a1
+  }
+
+
+Specify Oxs_MultiAtlas:atlas {
+
+atlas :a1
+}
+
+# Atlas, defines system size and layer structure
+
+Specify Oxs_RectangularMesh:mesh {
+  cellsize {5e-9 5e-9 5e-9}
+  atlas :atlas
+}
+
+# cell size 5nm x 5nm x 5nm
+
+Specify Oxs_Exchange6Ngbr:CoFe {
+  atlas :atlas
+ 
+  A {
+    a1 a1 30e-12
+    }
+}
+
+
+Specify Oxs_UniaxialAnisotropy {
+axis { 1 0 0 }
+K1 2e3
+}
+
+Specify Oxs_Demag {}
+
+
+Specify Oxs_UZeeman:extfield0 [subst {
+  comment {Field values in milli Tesla}
+  multiplier 795.77472
+  Hrange {
+{1000 0 0  -1000 0 0 40}
+{-1000 0 0  1000 0 0 40}
+  }
+}]
+
+
+Specify Oxs_EulerEvolve {
+alpha 0.5
+  start_dm 0.01
+}
+
+Specify Oxs_AtlasVectorField:init {
+atlas :atlas
+values {
+a1 {1 0 0}
+}
+}
+
+
+Specify Oxs_TimeDriver {
+ basename Co-stripe
+ evolver Oxs_EulerEvolve
+ comment {1 deg/ns = 17453293 rad/sec; If Ms=8.6e5, and lambda is small,
+         then mxh=1e-6 translates into dm/dt = 2e5 rad/sec = 0.01 deg/ns}
+ stopping_dm_dt .01
+ mesh :mesh
+ Ms  { Oxs_AtlasScalarField {
+     atlas :atlas
+     default_value 0
+     values {
+       a1 14e5
+       
+     }
+ }}
+ m0 init
+}
+
+
+# Default outputs
+Destination archive   mmArchive
+
+Schedule DataTable archive   Stage 1
+Schedule Oxs_TimeDriver::Magnetization archive Stage 1
+#END
